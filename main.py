@@ -12,8 +12,7 @@ import pic #pic.picture(imgage_way,img_text)
 import random_list
 
 
-tokenvk = "110d381ed79978477c80de7452b829c4860ba00d83fc86be21eb237b41211a8276e2e4a21847ed371cb67"
-#tokenvk = os.environ.get('vktoken')
+tokenvk = os.environ.get('vktoken')
 
 
 #prosba ='\n  не забывайте про "/", иначе бот не будет читать ваши сообщения'
